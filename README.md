@@ -13,4 +13,4 @@
 
 其作品描绘的北京古韵，大气雄浑、清新雅致再现北京风景魅力，赏此永恒之美。
 
-![img](assest/images/1.jpg)
+![img](assest/images/2.jpg)
