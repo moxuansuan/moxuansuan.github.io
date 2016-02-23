@@ -12,7 +12,7 @@
 
 ## 作品小样
 
-![img](assest/images/1jpg)
+![img](assest/images/1.jpg)
 ![img](assest/images/2.jpg)
 ![img](assest/images/3.jpg)
 ![img](assest/images/4.jpg)
